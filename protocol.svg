@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 276" width="900" height="276" role="img" aria-label="The Shadow Protocol: six house rules">
+  <g transform="translate(20,20)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="0s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">01</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">STAY ANONYMOUS.</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">STAY ORIGINAL.</text>
+  </g>
+  <g transform="translate(310,20)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">02</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">"FIVE MINUTES"</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">MEANS NEXT WEEK.</text>
+  </g>
+  <g transform="translate(600,20)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="4s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">03</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">BUILD PASSED FIRST TRY?</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">INVESTIGATE IMMEDIATELY.</text>
+  </g>
+  <g transform="translate(20,146)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">04</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">EVERYTHING BROKE?</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">CALL IT A MAJOR UPDATE.</text>
+  </g>
+  <g transform="translate(310,146)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="8s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">05</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">NEVER DEPLOY ON A FRIDAY.</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">(WE WILL.)</text>
+  </g>
+  <g transform="translate(600,146)">
+    <rect width="280" height="110" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="2">
+      <animate attributeName="stroke" values="#30363d;#00ff9c;#00ff9c;#30363d;#30363d" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="10s" repeatCount="indefinite"/>
+    </rect>
+    <rect width="280" height="110" rx="12" fill="#00ff9c" opacity="0">
+      <animate attributeName="opacity" values="0;0.10;0.10;0;0" keyTimes="0;0.03;0.08;0.12;1" dur="12s" begin="10s" repeatCount="indefinite"/>
+    </rect>
+    <text x="18" y="52" font-family="'Courier New',Courier,monospace" font-size="46" font-weight="700" fill="#00ff9c" opacity="0.22">06</text>
+    <text x="18" y="76" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#e6edf3">HAVE FUN.</text>
+    <text x="18" y="96" font-family="'Courier New',Courier,monospace" font-size="14" font-weight="700" letter-spacing="1" fill="#8b949e">BROS BEFORE CEOS.</text>
+  </g>
+</svg>

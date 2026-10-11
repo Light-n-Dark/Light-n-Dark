@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="900" height="120" role="img" aria-label="02 / PROJECT: SOMETHING">
+  <defs>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="-500" y1="0" x2="-100" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.42" stop-color="#ffffff"/>
+      <stop offset="0.5" stop-color="#00ff9c"/>
+      <stop offset="0.58" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff"/>
+      <animate attributeName="x1" values="-500;-500;900;900" keyTimes="0;0.15;0.75;1" dur="9s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-100;-100;1300;1300" keyTimes="0;0.15;0.75;1" dur="9s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="ul" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#00ff9c"/>
+      <stop offset="1" stop-color="#00ff9c" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="900" height="120" rx="14" fill="#0d1117"/>
+  <rect x="1" y="1" width="898" height="118" rx="13" fill="none" stroke="#30363d" stroke-width="2"/>
+  <rect x="0" y="22" width="6" height="76" fill="#00ff9c">
+    <animate attributeName="opacity" values="1;0.25;1" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- big outlined number that draws itself -->
+  <text x="38" y="84" font-family="'Courier New',Courier,monospace" font-size="68" font-weight="700" fill="#00ff9c" fill-opacity="0" stroke="#00ff9c" stroke-width="2" stroke-dasharray="320" stroke-dashoffset="320">02
+    <animate attributeName="stroke-dashoffset" values="320;0;0;320" keyTimes="0;0.25;0.85;1" dur="9s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0;0;0.22;0.22;0" keyTimes="0;0.2;0.35;0.85;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- title with shimmer sweep -->
+  <text x="165" y="62" font-family="'Courier New',Courier,monospace" font-size="30" font-weight="700" fill="url(#shine)" textLength="360" lengthAdjust="spacing">PROJECT: SOMETHING</text>
+
+  <!-- sarcastic caption -->
+  <text x="165" y="90" font-family="'Courier New',Courier,monospace" font-size="14" font-style="italic" letter-spacing="1" fill="#8b949e">// yes, that's the real name. no, we won't elaborate
+    <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.2;0.38;1" dur="9s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- growing underline -->
+  <rect x="165" y="102" width="0" height="3" rx="1.5" fill="url(#ul)">
+    <animate attributeName="width" values="0;0;690;690" keyTimes="0;0.1;0.4;1" dur="9s" repeatCount="indefinite"/>
+  </rect>
+</svg>
